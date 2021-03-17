@@ -1,5 +1,5 @@
 # test
 sample repository
 
-##### Credits
+# Credits
 this was created during course on put
